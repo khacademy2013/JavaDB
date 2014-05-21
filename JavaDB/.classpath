@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="D:/Git/JavaDB/JavaDB/Lib/derby.jar"/>
 	<classpathentry kind="lib" path="D:/Git/JavaDB/JavaDB/Lib/derbyclient.jar"/>
 	<classpathentry kind="lib" path="D:/Git/JavaDB/JavaDB/Lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="D:/Git/JavaDB/JavaDB/Lib/thumbnailator-0.4.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
