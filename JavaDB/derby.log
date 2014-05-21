@@ -1,0 +1,15 @@
+Fri Mar 28 17:08:56 KST 2014 : Apache Derby 네트워크 서버 - 10.8.3.0 - (1405108)이(가) 시작되어 포트 1527에서 연결을 승인할 준비가 되었습니다.
+----------------------------------------------------------------
+Fri Mar 28 17:08:57 KST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0145-07bc-110b-000000b044d0 
+on database directory G:\Java\workspace\JavaDB\Chunja  with class loader sun.misc.Launcher$AppClassLoader@1fa1bb6 
+Loaded from file:/G:/Java/workspace/JavaDB/Lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=G:\Java\workspace\JavaDB
+os.name=Windows XP
+os.arch=x86
+os.version=5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Fri Mar 28 17:08:58 KST 2014 : Apache Derby 네트워크 서버 - 10.8.3.0 - (1405108)이(가) 종료되었습니다.
